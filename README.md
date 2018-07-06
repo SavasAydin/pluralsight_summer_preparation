@@ -23,8 +23,8 @@
 - [x] Process Priority 21m 24s
 - [x] Monitor Linux Performance 30m 27s
 - [x] Using Sysstat to Monitor Performance 22m 29s
-- [ ] Managing Shared Libraries 22m 17s 
-- [ ] Scheduling Tasks in Linux 35m 24s 
+- [x] Managing Shared Libraries 22m 17s 
+- [x] Scheduling Tasks in Linux 35m 24s 
 - [ ] Log Files and Logrotate 48m 35s 
 - [ ] Introducing SELinux 32m 22s 
 - [ ] Managing Software on CentOS 7 1h 1m 27s 
