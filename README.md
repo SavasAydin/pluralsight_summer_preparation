@@ -25,7 +25,7 @@
 - [x] Using Sysstat to Monitor Performance 22m 29s
 - [x] Managing Shared Libraries 22m 17s 
 - [x] Scheduling Tasks in Linux 35m 24s 
-- [ ] Log Files and Logrotate 48m 35s 
+- [x] Log Files and Logrotate 48m 35s 
 - [ ] Introducing SELinux 32m 22s 
 - [ ] Managing Software on CentOS 7 1h 1m 27s 
 - [ ] Configuration Management Tools 18m 59s
