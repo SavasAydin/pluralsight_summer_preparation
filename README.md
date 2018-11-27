@@ -1,6 +1,6 @@
 # Linux Foundation Certified System Administrator (LFCS) 39h
 ## LFCS: Learning Essentials of CentOS Enterprise Linux 7 Administration 6h 43m
-- [x] Course Overview 
+- [x] Course Overview
 - [x] Introducing the Linux Foundation and LFCS Certification
 - [x] Installing CentOS 7
 - [x] Working at the Command Line
@@ -23,11 +23,11 @@
 - [x] Process Priority 21m 24s
 - [x] Monitor Linux Performance 30m 27s
 - [x] Using Sysstat to Monitor Performance 22m 29s
-- [x] Managing Shared Libraries 22m 17s 
-- [x] Scheduling Tasks in Linux 35m 24s 
-- [x] Log Files and Logrotate 48m 35s 
-- [ ] Introducing SELinux 32m 22s 
-- [ ] Managing Software on CentOS 7 1h 1m 27s 
+- [x] Managing Shared Libraries 22m 17s
+- [x] Scheduling Tasks in Linux 35m 24s
+- [x] Log Files and Logrotate 48m 35s
+- [ ] Introducing SELinux 32m 22s
+- [ ] Managing Software on CentOS 7 1h 1m 27s
 - [ ] Configuration Management Tools 18m 59s
 
 ## LFCS: Linux User and Group Management 4h 22m
@@ -50,9 +50,9 @@
 - [ ] Managing Logical Volumes 34m 39s
 - [ ] Configuring an iSCSI Block Storage Server 31m 18s
 - [ ] Implementing HA Clusters 47m 29s
-- [ ] Implementing Aggregated Storage with GlusterFS 31m 30s 
-- [ ] Encrypted Volumes 30m 29s 
-- [ ] Using the Auto-mounter 29m 17s 
+- [ ] Implementing Aggregated Storage with GlusterFS 31m 30s
+- [ ] Encrypted Volumes 30m 29s
+- [ ] Using the Auto-mounter 29m 17s
 - [ ] Implement User and Group Quotas 29m 59s
 
 ## LFCS: Linux Networking 4h 16m
@@ -64,7 +64,7 @@
 - [ ] Routing with CentOS 7 26m 41s
 - [ ] Firewalling with Firewalld 29m 58s
 - [ ] Using iptables 25m 11s
-- [ ] Methods to Tunnel Traffic 35m 21s 
+- [ ] Methods to Tunnel Traffic 35m 21s
 - [ ] Monitoring the Network 22m 9s
 
 ## LFCS: Linux Service Management 7h 2m
@@ -76,9 +76,9 @@
 - [ ] Installing PXE 40m 49s
 - [ ] Configuring Email in CentOS 7 56m 40s
 - [ ] Configure Printing in CentOS 7 24m 57s
-- [ ] Installing Apache Web Server 1h 0m 33s 
-- [ ] Installing and Testing PHP 30m 47s 
-- [ ] Installing MariaDB 35m 12s 
+- [ ] Installing Apache Web Server 1h 0m 33s
+- [ ] Installing and Testing PHP 30m 47s
+- [ ] Installing MariaDB 35m 12s
 - [ ] Configuring SELinux for Services 32m 48s
 
 ## LFCS: Linux Virtualization Management 3h 21m
@@ -109,19 +109,19 @@
 - [ ] Command Line Monitoring Tools 32m 59s
 - [ ] Graphing Data Collection with collectd 18m 9s
 - [ ] Monitoring Availability with Nagios 55m 19s
-- [ ] Basic Network Administration 41m 14s
+- [x] Basic Network Administration 41m 14s
 - [ ] Advanced Network Administration 1h 2m 43s
 - [ ] Project: Building a Wireless Access Point 30m 3s
 - [ ] Build C Programs from Source 33m 48s
-- [ ] Backup Operations 58m 22s 
+- [ ] Backup Operations 58m 22s
 - [ ] Notify Users 29m 36s
 
 ## Linux Kernel and System Startup (LPIC-2) 4h 51m
-- [ ] Introduction 23m 38s
-- [ ] Linux Kernel Basics 25m 5s
-- [ ] Compiling a Linux Kernel 38m 54s
-- [ ] System V Init Startup 48m 40s
-- [ ] Understanding Service Control with systemd 47m 2s
+- [x] Introduction 23m 38s
+- [x] Linux Kernel Basics 25m 5s
+- [x] Compiling a Linux Kernel 38m 54s
+- [x] System V Init Startup 48m 40s
+- [x] Understanding Service Control with systemd 47m 2s
 - [ ] System Recovery 1h 4m 28s
 - [ ] PXE Boot and Network Installs 43m 27s
 
@@ -135,7 +135,7 @@
 - [ ] Extending DNS to Host Zones 30m 27s
 - [ ] Troubleshooting DNS and Log Files 38m 0s
 - [ ] Configuring DNS Replication 23m 12s
-- [ ] Configuring DNS Security 41m 40s 
+- [ ] Configuring DNS Security 41m 40s
 - [ ] Configuring PowerDNS 17m 16s
 
 ## Linux: Managing Web Services (LPIC-2) 5h 11m
@@ -158,8 +158,8 @@
 - [ ] Managing Shares 43m 57s
 - [ ] Connecting to Shares 31m 24s
 - [ ] Linux and Active Directory 43m 46s
-- [ ] Installing NFS 16m 3s 
-- [ ] Creating Exports in NFS 43m 57s 
+- [ ] Installing NFS 16m 3s
+- [ ] Creating Exports in NFS 43m 57s
 - [ ] Securing NFS 13m 46s
 
 ## Linux: Network Client Management (LPIC-2) 3h 53m
@@ -191,7 +191,7 @@
 - [ ] Dynamic Firewalls with Fail2ban 16m 11s
 - [ ] Securing OpenSSH 31m 52s
 - [ ] Securing FTP Services 24m 3s
-- [ ] Monitoring Systems 27m 29s 
+- [ ] Monitoring Systems 27m 29s
 - [ ] Virtual Private Networks 19m 39s
 
 # Python 27h
@@ -204,7 +204,7 @@
 - [x] Object Oriented Programming - Classes and Why Do We Need Them? 35m 43s
 - [x] Putting It All Together - s Make It a Web App 11m 42s
 - [x] Python Tips and Tricks 22m 3s
-### DONE Python Fundamentals 5h 11m 
+### DONE Python Fundamentals 5h 11m
 - [x] Introduction to the Python Fundamentals Course 13m 35s
 - [x] Getting Starting With Python 3 42m 35s
 - [x] Strings and Collections 17m 51s
@@ -213,8 +213,8 @@
 - [x] Collections 44m 51s
 - [x] Handling exceptions 22m 7s
 - [x] Iterables 32m 54s
-- [x] Classes 29m 49s 
-- [x] Files and Resource Management 31m 14s 
+- [x] Classes 29m 49s
+- [x] Files and Resource Management 31m 14s
 - [x] Shipping Working and Maintainable Code 33m 59s
 
 ## Intermediate 12h
@@ -227,10 +227,10 @@
 - [ ] Strings and Representations 18m 45s
 - [ ] Numeric and Scalar Types 1h 2m 15s
 - [ ] Iterables and Iteration 29m 45s
-- [ ] Inheritance and Subtype Polymorphism 36m 50s 
-- [ ] Implementing Collections 52m 48s 
-- [ ] Exceptions and Errors 37m 48s 
-- [ ] Defining Context Managers 29m 15s 
+- [ ] Inheritance and Subtype Polymorphism 36m 50s
+- [ ] Implementing Collections 52m 48s
+- [ ] Exceptions and Errors 37m 48s
+- [ ] Defining Context Managers 29m 15s
 - [ ] Introspection 29m 8s
 
 ### The Python Developer's Toolkit 2h 19m
